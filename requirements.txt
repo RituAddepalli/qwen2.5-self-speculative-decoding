@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+accelerate
+numpy
+scikit-learn
+bayesian-optimization
